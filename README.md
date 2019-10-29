@@ -3,3 +3,6 @@ Generally, Git won’t let you checkout another branch unless your working direc
 
 
 Some text here
+
+
+Some random text
